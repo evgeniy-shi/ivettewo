@@ -1,7 +1,13 @@
 ### Hi there 👋
 
-### Languages and Tools:
-![Flutter](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=orange)
+### Стек:
+![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=)
+![Swagger](https://img.shields.io/static/v1?style=for-the-badge&message=Swagger&color=222222&logo=Swagger&logoColor=85EA2D&label=)
+![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
+![Google Chrome](https://img.shields.io/static/v1?style=for-the-badge&message=DevTools&color=222222&logo=Google+Chrome&logoColor=FFFFFF&label=)
+
+
+
 
 
 <!--
